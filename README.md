@@ -18,6 +18,7 @@ Data directory: /data (data needs to be downloaded from https://grouplens.org/da
 Extract the zip and copy `u.data`, `u.item` and `u.user` to this directory.
 
 Exploration Notebook: notebook/01_kpy_explorations.ipynb
+
 Approaches to Recommendations Notebook: notebook/02_kpy_ideas.ipynb
 
 
