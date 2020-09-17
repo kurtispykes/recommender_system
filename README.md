@@ -17,6 +17,8 @@ The data may be accessed via [MovieLens 100K Dataset](https://grouplens.org/data
 Data directory: /data (data needs to be downloaded from https://grouplens.org/datasets/movielens/1m/)
 Extract the zip and copy `u.data`, `u.item` and `u.user` to this directory.
 
-Notebooks directory: /notebook notebook file(s): *01_kpy_explorations.ipynb*
+Exploration Notebook: notebook/01_kpy_explorations.ipynb
+Approaches to Recommendations Notebook: notebook/02_kpy_ideas.ipynb
+
 
 Run each cell of the jupyter notebook in the order.
